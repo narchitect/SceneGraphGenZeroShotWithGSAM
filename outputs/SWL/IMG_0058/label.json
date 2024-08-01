@@ -1,0 +1,1 @@
+{"caption": "a row of windows sitting next to each other", "mask": [{"value": 0, "label": "background"}, {"value": 1, "label": "row", "logit": 0.25, "box": [14.125, 9.53778076171875, 2576.1142578125, 1553.53076171875]}, {"value": 2, "label": "row", "logit": 0.25, "box": [9.966400146484375, 6.16522216796875, 723.6217041015625, 1547.868896484375]}]}

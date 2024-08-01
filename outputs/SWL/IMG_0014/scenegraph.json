@@ -1,0 +1,1 @@
+{"class":"GraphLinksModel","nodeDataArray":[{"key":"room","color":"#ec8c69"},{"key":"doors","color":"#ec8c69"},{"key":"light","color":"#ec8c69"},{"key":"with","color":"yellow"},{"key":"with","color":"yellow"}],"linkDataArray":[{"from":"room","to":"with"},{"from":"with","to":"doors"},{"from":"room","to":"with"},{"from":"with","to":"light"}]}

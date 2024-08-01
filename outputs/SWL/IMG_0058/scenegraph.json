@@ -1,0 +1,1 @@
+{"class":"GraphLinksModel","nodeDataArray":[{"key":"row","color":"#ec8c69"},{"key":"windows","color":"#ec8c69"},{"key":"of","color":"yellow"}],"linkDataArray":[{"from":"row","to":"of"},{"from":"of","to":"windows"}]}

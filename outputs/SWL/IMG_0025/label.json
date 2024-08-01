@@ -1,0 +1,1 @@
+{"caption": "a couple of boxes that are next to each other", "mask": [{"value": 0, "label": "background"}, {"value": 1, "label": "couple", "logit": 0.62, "box": [1423.972900390625, 1020.8302612304688, 2579.657470703125, 1718.842041015625]}]}

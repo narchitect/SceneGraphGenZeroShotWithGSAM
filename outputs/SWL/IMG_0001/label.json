@@ -1,0 +1,1 @@
+{"caption": "a couple of lights that are on the ceiling", "mask": [{"value": 0, "label": "background"}, {"value": 1, "label": "couple", "logit": 0.35, "box": [787.5857543945312, 310.2545166015625, 1534.265380859375, 1361.8790283203125]}, {"value": 2, "label": "ceiling", "logit": 0.31, "box": [9.100830078125, 6.88238525390625, 2580.801513671875, 1658.10693359375]}]}

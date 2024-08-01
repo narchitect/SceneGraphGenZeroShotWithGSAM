@@ -1,0 +1,1 @@
+{"class":"GraphLinksModel","nodeDataArray":[{"key":"couple","color":"#ec8c69"},{"key":"lights","color":"#ec8c69"},{"key":"that","color":"#ec8c69"},{"key":"ceiling","color":"#ec8c69"},{"key":"of","color":"yellow"}],"linkDataArray":[{"from":"couple","to":"of"},{"from":"of","to":"lights"}]}

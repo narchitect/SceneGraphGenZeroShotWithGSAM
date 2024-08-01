@@ -5,9 +5,13 @@ python scene_graph_gen.py --config GroundingDINO/groundingdino/config/GroundingD
 '''
 
 
+
 import argparse
 import os
 import copy
+import sys
+
+
 
 import numpy as np
 import json
@@ -32,7 +36,7 @@ import matplotlib.pyplot as plt
 # from transformers import BlipProcessor, BlipForConditionalGeneration
 from lavis.models import load_model_and_preprocess
 
-# ChatGPT
+# ChatGPTc
 # import openai
 import sng_parser
 import pickle

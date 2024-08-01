@@ -1,0 +1,1 @@
+{"caption": "a white room with two doors and posters on the wall", "mask": [{"value": 0, "label": "background"}, {"value": 1, "label": "room", "logit": 0.43, "box": [15.75341796875, 11.05560302734375, 2566.560546875, 1711.656005859375]}, {"value": 2, "label": "doors", "logit": 0.38, "box": [756.5598754882812, 527.3431396484375, 1324.03271484375, 1414.846435546875]}]}
