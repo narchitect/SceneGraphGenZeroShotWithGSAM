@@ -1,0 +1,6 @@
+[submodule "SceneGraphParser"]
+	path = SceneGraphParser
+	url = https://github.com/vacancy/SceneGraphParser.git
+[submodule "LAVIS"]
+	path = LAVIS
+	url = https://github.com/salesforce/LAVIS.git
